@@ -1,0 +1,1 @@
+window.alert("FOR YOU <3")

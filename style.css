@@ -53,3 +53,22 @@ body{
     border-radius: 50%;
     box-shadow: -10px 10px 90px #f20044;
 }
+
+
+
+.text{
+    background-color: #f2004563;
+    border-radius: 7px;
+    width: 170px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    margin-top: 270px;
+    margin-left: -120px;
+
+    -webkit-box-reflect: below 2px linear-gradient(transparent, #0005);
+    box-shadow: 0 0 5px #f2004563, 0 0 15px #f2004563, 0 0 25px #f2004563, 0 0 100px #f2004563;
+    font-family: 'Times New Roman', Times, serif;
+
+}
